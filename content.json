@@ -24,10 +24,23 @@
   "tt": "",
   "yt": "",
   "photo": "doctor.jpg",
+  "greview": "https://g.page/r/CbyCtU0f1Q-LEBM/review",
   "ga": "",
   "clarity": "",
   "gsc": "",
-  "showPrices": true
+  "showPrices": true,
+  "name_en": "Dr. Karim Elshourbagy",
+  "tagline_en": "Dermatology, Aesthetics & Laser · Men's Health & Andrology",
+  "title_en": "Dr. Karim Elshourbagy — Dermatology, Aesthetics, Laser & Men's Health | Book Online",
+  "desc_en": "Dermatologist in Cairo for acne, laser hair removal, Botox & fillers, hair loss, melasma and men's health. Branches across Cairo. Book on WhatsApp.",
+  "heroTitle_en": "Dr. Karim Elshourbagy",
+  "heroText_en": "An accurate diagnosis, a clear treatment plan, and follow-up until you see results — at several branches near you in Cairo.",
+  "trust_en": [
+   "Branches in 5 areas of Cairo",
+   "Book online in a minute",
+   "Follow-up after every session",
+   "Complete privacy for men's health consultations"
+  ]
  },
  "about": {
   "title": "عن د. كريم الشوربجي",
@@ -45,20 +58,38 @@
    "منتجات أصلية — ومن حقك تعرف اسم المنتج ورقم التشغيلة",
    "متابعة على الواتساب بعد كل إجراء",
    "خصوصية تامة في كشف صحة الرجل"
+  ],
+  "title_en": "About Dr. Karim Elshourbagy",
+  "paras_en": [
+   "Dr. Karim Elshourbagy is a physician specializing in dermatology, aesthetics, laser and men's health. He sees patients and performs procedures at several centers across Cairo, and works as Senior Laser Doctor at DAO Derma.",
+   "Our goal is for you to understand your condition well and follow a clear plan with transparent pricing — and we stay with you after every session until you reach your result."
+  ],
+  "exp_en": [
+   "Senior Laser Doctor — DAO Derma"
+  ],
+  "values_en": [
+   "Diagnosis first, then treatment",
+   "A written plan, with the number of sessions and the cost made clear from the start",
+   "Genuine products — and you have the right to know the product name and batch number",
+   "WhatsApp follow-up after every procedure",
+   "Complete privacy in men's health consultations"
   ]
  },
  "groups": [
   {
    "id": "derm",
-   "name": "الجلدية"
+   "name": "الجلدية",
+   "name_en": "Dermatology"
   },
   {
    "id": "aes",
-   "name": "التجميل والليزر"
+   "name": "التجميل والليزر",
+   "name_en": "Aesthetics & Laser"
   },
   {
    "id": "andro",
-   "name": "صحة الرجل والذكورة"
+   "name": "صحة الرجل والذكورة",
+   "name_en": "Men's Health & Andrology"
   }
  ],
  "services": [
@@ -109,7 +140,48 @@
    "g": "derm",
    "on": true,
    "price": "",
-   "prep": []
+   "prep": [],
+   "title_en": "Acne & Acne Scar Treatment",
+   "card_en": "Acne, inflamed breakouts, and the scars, marks and spots they leave behind.",
+   "lead_en": "Acne is treatable, and its scars and marks can improve a great deal too. The key is identifying the type of acne and its cause, then following a clear plan with regular follow-up.",
+   "when_en": [
+    "Blackheads, whiteheads and clogged pores",
+    "Red, inflamed pimples or painful cysts under the skin",
+    "Breakouts that keep coming back despite creams",
+    "Dark or red marks left after pimples",
+    "Pitted scars from old acne"
+   ],
+   "how_en": [
+    "Consultation to assess acne severity and skin type",
+    "Topical treatment (creams and gels) for mild to moderate acne",
+    "Oral treatment for moderate to severe acne — including isotretinoin (Roaccutane) with regular monitoring and lab tests",
+    "Supporting sessions: chemical peels for oily, acne-prone skin, and mesotherapy for acne",
+    "For scars: microneedling (Dermapen), peels, fractional CO2 laser, or subcision for deep scars — depending on the scar type"
+   ],
+   "time_en": "With consistent use, creams or tablets usually show improvement after 6–8 weeks. Acne scars typically need 3 to 6 sessions, spaced 4 weeks apart.",
+   "tips_en": [
+    "Don't squeeze your pimples — squeezing is the main cause of scars and dark marks",
+    "Wear sunscreen every day, even if you're staying at home",
+    "Use a gentle cleanser twice a day only — over-washing irritates the skin"
+   ],
+   "faq_en": [
+    [
+     "Is Roaccutane safe?",
+     "It is very safe when taken under medical supervision: lab tests before and during treatment, with monthly follow-up. Pregnancy must be strictly avoided during treatment and for one month after stopping it."
+    ],
+    [
+     "Does diet affect acne?",
+     "In some people, a lot of dairy and sugar can make acne worse. It isn't the case for everyone — we'll look at your situation individually."
+    ],
+    [
+     "Can acne come back after treatment?",
+     "It can return in some people, which is why we continue with a simple maintenance treatment once the breakouts have settled."
+    ],
+    [
+     "Can I treat scars while I still have active acne?",
+     "It's best to calm active acne first, then start scar treatment sessions so the results last."
+    ]
+   ]
   },
   {
    "file": "laser-hair-removal",
@@ -160,6 +232,50 @@
     "احلق المكان قبل الجلسة بيوم — ممنوع الشمع أو النتف",
     "تعالى من غير كريمات أو ديودورانت على المكان",
     "بلاش تان أو شمس قوية أسبوعين قبلها"
+   ],
+   "title_en": "Laser Hair Removal",
+   "card_en": "For face and body — sessions that significantly and permanently reduce hair.",
+   "lead_en": "The laser targets the pigment in the hair and weakens the follicle, so hair becomes thinner and sparser with each session until it is very fine or gone.",
+   "when_en": [
+    "Dark hair on the face or body",
+    "Tired of waxing, shaving and ingrown hairs",
+    "Recurrent folliculitis (inflamed hair follicles) after shaving",
+    "Excess hair associated with PCOS (alongside treating the underlying cause)"
+   ],
+   "how_en": [
+    "Consultation to assess your skin and hair type and whether laser is suitable for you",
+    "Shave the area one day before your session",
+    "A session takes from a few minutes for the face to about an hour for the full body, with cooling",
+    "6 to 8 sessions: every 4–6 weeks for the face and every 6–8 weeks for the body"
+   ],
+   "time_en": "Treated hair sheds on its own 1 to 3 weeks after each session, and a clear difference is usually visible from the third session.",
+   "tips_en": [
+    "No waxing, plucking or threading for 4 weeks before and between sessions — shaving only",
+    "Avoid sun exposure and tanning for two weeks before and after each session",
+    "Tell the doctor if you're taking any medication or if you're pregnant"
+   ],
+   "faq_en": [
+    [
+     "Are the results permanent?",
+     "Laser significantly and permanently reduces hair, though some people need an occasional top-up session — especially when hormones are involved."
+    ],
+    [
+     "Does blonde or white hair respond?",
+     "Laser needs pigment in the hair, so white and very light blonde hair responds poorly."
+    ],
+    [
+     "Does it hurt?",
+     "It feels like a rubber band snapping against the skin with mild warmth, and the cooling makes it much more comfortable."
+    ],
+    [
+     "Can I have it during pregnancy?",
+     "As a precaution, we postpone treatment until after pregnancy and breastfeeding."
+    ]
+   ],
+   "prep_en": [
+    "Shave the area one day before your session — no waxing or plucking",
+    "Come with no creams or deodorant on the treatment area",
+    "Avoid tanning or strong sun exposure for two weeks beforehand"
    ]
   },
   {
@@ -207,6 +323,46 @@
     "بلاش أسبرين أو مسكنات زي البروفين وأوميجا 3 قبلها بـ 3 أيام لو ينفع (بتزوّد الكدمات)",
     "تعالى من غير مكياج",
     "لو عندك مناسبة، خلي الفيلر قبلها بأسبوعين على الأقل"
+   ],
+   "title_en": "Botox & Dermal Fillers",
+   "card_en": "Expression lines, lips, cheeks, jawline and under-eye hollows — with natural-looking results.",
+   "lead_en": "Botox relaxes the muscles that cause expression lines, while fillers restore lost volume and refine facial contours. Our goal is always a natural result that still looks like you.",
+   "when_en": [
+    "Forehead lines, frown lines and crow's feet (Botox)",
+    "Excessive sweating of the underarms or hands (Botox)",
+    "Jaw slimming or a gummy smile (Botox)",
+    "Lips, cheeks, chin and jawline, under-eye hollows, and smile lines (fillers)"
+   ],
+   "how_en": [
+    "Consultation to assess your facial features and discuss the result you're looking for",
+    "Botox is given with a very fine needle and takes just minutes",
+    "Fillers are done with numbing cream or local anesthesia, sometimes using a cannula to reduce bruising",
+    "Ask for the product name and batch number — it's your right"
+   ],
+   "time_en": "Botox starts to show in 3–5 days, reaches its full effect within two weeks, and lasts 3–4 months. Filler results are immediate; swelling settles in 3–7 days, and results last 6 to 18 months depending on the area and product.",
+   "tips_en": [
+    "After Botox: don't lie face down or bend your head down for 4 hours",
+    "After fillers: avoid the gym and sauna for 48 hours, and use cold compresses for swelling",
+    "Contact us immediately if, after fillers, you have severe or worsening pain, a change in skin color, or any change in your vision"
+   ],
+   "faq_en": [
+    [
+     "Will my face look frozen or unnatural?",
+     "With the right dose and placement, your expressions stay natural — the aim is that no one can tell you've had anything done."
+    ],
+    [
+     "Can fillers be dissolved?",
+     "Hyaluronic acid fillers can be dissolved with a special enzyme if needed."
+    ],
+    [
+     "Who shouldn't have these treatments?",
+     "Pregnant and breastfeeding women, and people with certain nerve and muscle conditions — we'll review your medical history during the consultation."
+    ]
+   ],
+   "prep_en": [
+    "If possible, avoid aspirin, painkillers such as ibuprofen, and omega-3 for 3 days beforehand (they increase bruising)",
+    "Come without makeup",
+    "If you have an upcoming event, schedule fillers at least two weeks before it"
    ]
   },
   {
@@ -250,7 +406,42 @@
    "g": "derm",
    "on": true,
    "price": "",
-   "prep": []
+   "prep": [],
+   "title_en": "Hair Loss Treatment",
+   "card_en": "Hair loss and thinning in men and women — diagnosing the cause, PRP and mesotherapy.",
+   "lead_en": "Hair loss has many causes, and the right treatment starts with finding yours: genetic, after an illness, childbirth or stress, vitamin or iron deficiency, thyroid problems, or alopecia areata.",
+   "when_en": [
+    "Shedding more hair than usual for over two months",
+    "Thinning at the front of the head or on the scalp",
+    "Bald patches or circular patches with no hair (alopecia areata)",
+    "Hair loss after COVID, childbirth or a strict diet"
+   ],
+   "how_en": [
+    "Consultation with a detailed scalp examination, and lab tests if needed",
+    "Topical or oral treatment depending on the cause",
+    "PRP, hair mesotherapy or exosomes, possibly combined with scalp microneedling (Dermapen)",
+    "The protocol is usually 3–4 monthly sessions, followed by maintenance sessions every 4–6 months"
+   ],
+   "time_en": "Shedding usually decreases within 1–2 months, and improved density becomes visible after 3–6 months of consistent treatment.",
+   "tips_en": [
+    "Avoid painkillers such as ibuprofen and aspirin for 3 days before and after PRP — use paracetamol if needed",
+    "Don't wash your hair for 24 hours after a PRP session",
+    "Sticking to your appointments is what makes the difference in results"
+   ],
+   "faq_en": [
+    [
+     "Does PRP work for everyone?",
+     "It works best for mild to moderate genetic hair loss and diffuse shedding. Long-standing complete baldness needs a different solution."
+    ],
+    [
+     "Will the regrown hair fall out again?",
+     "If the cause is genetic, treatment needs to be ongoing — we'll set up a follow-up plan to maintain your results."
+    ],
+    [
+     "Do I need lab tests?",
+     "Not always — it's decided during the consultation based on the type of hair loss."
+    ]
+   ]
   },
   {
    "file": "melasma-pigmentation",
@@ -290,7 +481,39 @@
    "g": "derm",
    "on": true,
    "price": "",
-   "prep": []
+   "prep": [],
+   "title_en": "Melasma & Pigmentation Treatment",
+   "card_en": "Melasma, post-acne marks, darkened areas, and dark circles.",
+   "lead_en": "Pigmentation can be caused by sun exposure, hormones, genetics and inflammation. Melasma in particular is a chronic condition, but it improves significantly with the right plan and regular follow-up.",
+   "when_en": [
+    "Melasma on the cheeks, forehead and upper lip",
+    "Dark spots after acne or inflammation",
+    "Darkening of the underarms, knees, elbows or friction areas",
+    "Dark circles under the eyes",
+    "Freckles and sun spots"
+   ],
+   "how_en": [
+    "Consultation to determine the type and depth of pigmentation",
+    "Sunscreen and suitable lightening creams — this is the foundation",
+    "Supporting sessions: chemical peels, brightening mesotherapy, microneedling (Dermapen), or localized brightening injections — depending on the case",
+    "Regular follow-up so the results last"
+   ],
+   "time_en": "Improvement usually shows after 4–8 weeks. Melasma needs ongoing maintenance because it can come back with sun exposure and hormonal changes.",
+   "tips_en": [
+    "Wear SPF 50 sunscreen every day and reapply every 3 hours when outdoors",
+    "Avoid homemade mixtures and non-prescribed creams — some cause pigmentation that is harder to treat",
+    "Tell the doctor if you're taking birth control pills or if you're pregnant"
+   ],
+   "faq_en": [
+    [
+     "Can melasma go away completely?",
+     "It improves a great deal, but by nature it can come back — that's why prevention and follow-up are part of the treatment."
+    ],
+    [
+     "Does laser treat melasma?",
+     "It isn't the first choice for melasma and can make it worse in some people — we start with the safest and most suitable treatment for your skin."
+    ]
+   ]
   },
   {
    "file": "skin-glow",
@@ -329,7 +552,38 @@
    "g": "aes",
    "on": true,
    "price": "",
-   "prep": []
+   "prep": [],
+   "title_en": "Skin Rejuvenation & Skin Boosters",
+   "card_en": "Skin boosters, mesotherapy, microneedling (Dermapen), peels, facials, and collagen stimulators.",
+   "lead_en": "Sessions that improve your skin's hydration, radiance and texture — some of them also stimulate collagen over the long term.",
+   "when_en": [
+    "Dull or dry skin",
+    "Enlarged pores and uneven texture",
+    "Fine lines and mild sagging",
+    "Before a special occasion when you want glowing skin"
+   ],
+   "how_en": [
+    "Consultation to determine what your skin needs",
+    "Skin boosters (hyaluronic acid): usually two sessions, 4 weeks apart",
+    "Mesotherapy, microneedling (Dermapen) or peels depending on your skin",
+    "Collagen stimulators for sagging and volume loss — results are gradual"
+   ],
+   "time_en": "With most treatments, a glow is visible from the first session. Collagen stimulators work gradually, with results appearing over 6–8 weeks.",
+   "tips_en": [
+    "Avoid makeup for 12–24 hours after injections or microneedling",
+    "Avoid retinol and acids for a few days after your session",
+    "Daily sunscreen helps maintain your results"
+   ],
+   "faq_en": [
+    [
+     "Will there be bumps after skin boosters?",
+     "Small bumps at the injection points disappear within 1 to 3 days."
+    ],
+    [
+     "Which treatment should I choose?",
+     "It's decided during the consultation based on your skin type, your goals and your budget."
+    ]
+   ]
   },
   {
    "file": "skin-lesions",
@@ -369,7 +623,39 @@
    "g": "derm",
    "on": true,
    "price": "",
-   "prep": []
+   "prep": [],
+   "title_en": "Removal of Skin Tags, Moles & Warts",
+   "card_en": "Skin tags, warts, moles, sebaceous cysts, lipomas, milia, and keloids.",
+   "lead_en": "Minor in-clinic procedures performed under local anesthesia, with attention to the cosmetic result and to sending the tissue for analysis when needed.",
+   "when_en": [
+    "Skin tags on the neck or underarms",
+    "Warts on the hands, feet or face",
+    "A mole you'd like removed, or a mole that has changed",
+    "A sebaceous cyst or lipoma",
+    "White milia and small dark bumps (DPN)"
+   ],
+   "how_en": [
+    "Consultation to identify the lesion and choose the most suitable method",
+    "Local anesthesia — you'll only feel the small prick of the injection",
+    "Cautery, cryotherapy, or surgical excision with stitches depending on the case",
+    "If there is any doubt, the sample is sent for laboratory analysis"
+   ],
+   "time_en": "The scab after cautery falls off within 7–14 days. Stitches are removed after 5–7 days on the face and 10–14 days on the body. Warts may need more than one session.",
+   "tips_en": [
+    "Don't pick off the scab",
+    "Keep the wound dry for the first 24–48 hours, then apply the ointment",
+    "Tell the doctor if you're taking blood thinners"
+   ],
+   "faq_en": [
+    [
+     "Which moles should be checked?",
+     "Any mole that is growing, changing in color or shape, has irregular borders, or is bleeding or itchy should be examined."
+    ],
+    [
+     "Will it leave a scar?",
+     "We choose the method that minimizes scarring as much as possible; the result varies depending on the location and your skin type."
+    ]
+   ]
   },
   {
    "file": "andrology",
@@ -413,6 +699,43 @@
     "هات أي تحاليل أو أشعة قديمة",
     "اكتب الأدوية اللي بتاخدها",
     "تقدر تحجز باسمك الأول بس"
+   ],
+   "title_en": "Men's Health: Erectile Dysfunction & Premature Ejaculation",
+   "card_en": "Erectile dysfunction, premature ejaculation and intimacy concerns — in complete privacy.",
+   "lead_en": "Men's sexual health concerns are very common and treatable. Your consultation is completely private, and your treatment plan is tailored once the cause is understood.",
+   "when_en": [
+    "Weak erections or difficulty maintaining an erection",
+    "Premature ejaculation",
+    "Delayed fertility or an abnormal semen analysis",
+    "Heaviness or pain in the testicles, or varicocele",
+    "Infections or any symptoms in the genital area"
+   ],
+   "how_en": [
+    "Confidential consultation with a full medical history",
+    "Lab tests or investigations if needed",
+    "Medication, shockwave therapy, local injections, or varicocele surgery — depending on the case",
+    "Follow-up until you reach the desired result"
+   ],
+   "time_en": "It depends on the cause — the doctor will explain your plan and the expected duration during the consultation. After varicocele surgery, the semen analysis is repeated after 3 months.",
+   "tips_en": [
+    "Erectile dysfunction can be an early sign of diabetes, high blood pressure or heart problems — getting checked matters",
+    "Don't take sexual enhancement medication without a medical consultation",
+    "Bring any previous test results with you"
+   ],
+   "faq_en": [
+    [
+     "Is the consultation confidential?",
+     "Yes — all your information and consultation details are kept strictly confidential."
+    ],
+    [
+     "Do I need tests before the consultation?",
+     "Not necessarily — the doctor will decide what's needed during the consultation."
+    ]
+   ],
+   "prep_en": [
+    "Bring any previous lab results or scans",
+    "Write down the medications you're taking",
+    "You can book using your first name only"
    ]
   },
   {
@@ -461,6 +784,47 @@
      "الكشف سري؟",
      "أيوه، كل التفاصيل سرية تماماً."
     ]
+   ],
+   "title_en": "Male Infertility",
+   "card_en": "Semen analysis, varicocele, hormones — diagnosing the cause with a clear treatment plan.",
+   "lead_en": "Difficulty conceiving is a shared concern for both partners, and in about half of cases there is a contributing male factor. The good news is that many of its causes are treatable.",
+   "when_en": [
+    "One year of marriage without pregnancy despite regular intercourse (or 6 months if the wife is over 35)",
+    "A semen analysis showing low sperm count, motility or abnormal morphology",
+    "Varicocele or heaviness in the testicles",
+    "Erection or ejaculation problems",
+    "Previous surgery or infections in the genital area"
+   ],
+   "how_en": [
+    "Confidential consultation with a full medical history",
+    "Semen analysis (after 2–5 days of abstinence), plus hormone tests and scrotal ultrasound/Doppler if needed",
+    "Treating the cause: lifestyle changes, treating infections, hormonal therapy or supplements depending on the case, or varicocele surgery",
+    "Follow-up with a repeat semen analysis after 3 months"
+   ],
+   "time_en": "Sperm production takes about 3 months to renew, so the effect of any treatment is measured with a semen analysis after 3 months.",
+   "prep_en": [
+    "2–5 days of abstinence before the semen analysis",
+    "Bring any previous test results for both you and your wife",
+    "You can book using your first name only"
+   ],
+   "tips_en": [
+    "Smoking, excess weight and high heat (such as a laptop on your lap) can affect semen analysis results",
+    "Don't take hormones or performance-enhancing supplements without a medical consultation",
+    "A single analysis isn't enough to draw conclusions — sometimes we repeat it"
+   ],
+   "faq_en": [
+    [
+     "Does the semen analysis need to be repeated?",
+     "Sometimes — results can be affected by heat, illness and the abstinence period, so if there's an issue we repeat it to confirm."
+    ],
+    [
+     "Does varicocele surgery make a difference?",
+     "In selected cases, varicocele affects semen quality and surgery improves the results — this is decided after examination and a Doppler scan."
+    ],
+    [
+     "Is the consultation confidential?",
+     "Yes — all details are kept strictly confidential."
+    ]
    ]
   }
  ],
@@ -493,7 +857,9 @@
     }
    ],
    "slot": 20,
-   "on": true
+   "on": true,
+   "name_en": "Al Helal — El Salam (Esbeco)",
+   "area_en": "El Salam"
   },
   {
    "id": "hilal-gesr",
@@ -511,7 +877,9 @@
     }
    ],
    "slot": 15,
-   "on": true
+   "on": true,
+   "name_en": "Al Helal — Gesr El Suez (formerly El Bousiry)",
+   "area_en": "Gesr El Suez"
   },
   {
    "id": "asma",
@@ -528,7 +896,10 @@
     }
    ],
    "slot": 20,
-   "on": true
+   "on": true,
+   "name_en": "Asma Specialized Center — Gesr El Suez",
+   "area_en": "Gesr El Suez",
+   "addr_en": "Gamal Abdel Nasser St."
   },
   {
    "id": "shams-tabba",
@@ -546,7 +917,10 @@
     }
    ],
    "slot": 20,
-   "on": true
+   "on": true,
+   "name_en": "El Shams Labs Clinics — Nasr City (El Tabba)",
+   "area_en": "Nasr City",
+   "addr_en": "El Tabba"
   },
   {
    "id": "dao-arabella",
@@ -563,7 +937,8 @@
     }
    ],
    "slot": 20,
-   "on": true
+   "on": true,
+   "area_en": "Fifth Settlement (New Cairo)"
   },
   {
    "id": "dao-uvenues",
@@ -580,7 +955,8 @@
     }
    ],
    "slot": 20,
-   "on": true
+   "on": true,
+   "area_en": "Fifth Settlement (New Cairo)"
   },
   {
    "id": "renyou",
@@ -598,7 +974,9 @@
     }
    ],
    "slot": 20,
-   "on": true
+   "on": true,
+   "name_en": "Renyou — Sheraton",
+   "area_en": "Heliopolis (Sheraton)"
   }
  ],
  "areas": [
@@ -610,7 +988,10 @@
     "hilal-gesr",
     "asma"
    ],
-   "intro": "لو ساكن في جسر السويس أو قريب منها، تقدر تكشف مع د. كريم الشوربجي في فرعين: الهلال جسر السويس ومركز أسما التخصصي في شارع جمال عبد الناصر — جلدية وتجميل وليزر وصحة الرجل."
+   "intro": "لو ساكن في جسر السويس أو قريب منها، تقدر تكشف مع د. كريم الشوربجي في فرعين: الهلال جسر السويس ومركز أسما التخصصي في شارع جمال عبد الناصر — جلدية وتجميل وليزر وصحة الرجل.",
+   "area_en": "Gesr El Suez",
+   "title_en": "Dermatologist & Aesthetic Doctor in Gesr El Suez",
+   "intro_en": "If you live in or near Gesr El Suez, you can see Dr. Karim Elshourbagy at two branches: Al Helal Gesr El Suez and Asma Specialized Center on Gamal Abdel Nasser St. — dermatology, aesthetics, laser and men's health."
   },
   {
    "file": "derma-elsalam",
@@ -619,7 +1000,10 @@
    "branches": [
     "hilal-salam"
    ],
-   "intro": "عيادة د. كريم الشوربجي في الهلال — السلام (إسبيكو) كل تلات بالليل: حب الشباب، تساقط الشعر، الكلف، البوتوكس والفيلر، والزوائد الجلدية، وكشف صحة الرجل."
+   "intro": "عيادة د. كريم الشوربجي في الهلال — السلام (إسبيكو) كل تلات بالليل: حب الشباب، تساقط الشعر، الكلف، البوتوكس والفيلر، والزوائد الجلدية، وكشف صحة الرجل.",
+   "area_en": "El Salam",
+   "title_en": "Dermatologist & Aesthetic Doctor in El Salam",
+   "intro_en": "Dr. Karim Elshourbagy's clinic at Al Helal — El Salam (Esbeco), every Tuesday evening: acne, hair loss, melasma, Botox and fillers, skin tag removal, and men's health consultations."
   },
   {
    "file": "derma-nasr-city",
@@ -628,7 +1012,10 @@
    "branches": [
     "shams-tabba"
    ],
-   "intro": "في مدينة نصر (التبة) تقدر تحجز مع د. كريم الشوربجي في عيادات معامل الشمس — الكشف بالحجز المسبق، وبنحدد الساعة المناسبة معاك على الواتساب."
+   "intro": "في مدينة نصر (التبة) تقدر تحجز مع د. كريم الشوربجي في عيادات معامل الشمس — الكشف بالحجز المسبق، وبنحدد الساعة المناسبة معاك على الواتساب.",
+   "area_en": "Nasr City",
+   "title_en": "Dermatologist & Laser Doctor in Nasr City",
+   "intro_en": "In Nasr City (El Tabba), you can book with Dr. Karim Elshourbagy at El Shams Labs Clinics — consultations are by prior appointment, and we'll agree on a convenient time with you on WhatsApp."
   },
   {
    "file": "laser-new-cairo",
@@ -638,7 +1025,10 @@
     "dao-arabella",
     "dao-uvenues"
    ],
-   "intro": "في التجمع الخامس د. كريم الشوربجي بيشتغل طبيب ليزر أول في DAO Derma (أرابيلا ويوفينيوز): ليزر إزالة الشعر، علاج البشرة، والكشف الجلدي."
+   "intro": "في التجمع الخامس د. كريم الشوربجي بيشتغل طبيب ليزر أول في DAO Derma (أرابيلا ويوفينيوز): ليزر إزالة الشعر، علاج البشرة، والكشف الجلدي.",
+   "area_en": "Fifth Settlement (New Cairo)",
+   "title_en": "Dermatologist & Laser Doctor in Fifth Settlement (New Cairo)",
+   "intro_en": "In the Fifth Settlement, Dr. Karim Elshourbagy works as Senior Laser Doctor at DAO Derma (Arabella and Uvenues): laser hair removal, skin treatments, and dermatology consultations."
   },
   {
    "file": "derma-heliopolis",
@@ -647,7 +1037,10 @@
    "branches": [
     "renyou"
    ],
-   "intro": "لسكان مصر الجديدة والشيراتون: تقدر تحجز مع د. كريم الشوربجي في Renyou الشيراتون بالحجز المسبق."
+   "intro": "لسكان مصر الجديدة والشيراتون: تقدر تحجز مع د. كريم الشوربجي في Renyou الشيراتون بالحجز المسبق.",
+   "area_en": "Heliopolis",
+   "title_en": "Dermatologist & Aesthetic Doctor in Heliopolis and Sheraton",
+   "intro_en": "For residents of Heliopolis and Sheraton: you can book with Dr. Karim Elshourbagy at Renyou Sheraton by prior appointment."
   }
  ],
  "faq": [
@@ -684,7 +1077,10 @@
    "svc": "acne",
    "svcFile": "acne",
    "sum": "إمتى بنلجأ للروأكيوتان، إزاي تاخده صح، وإيه اللي لازم تعرفه عن التحاليل والحمل والجفاف.",
-   "body": "الروأكيوتان (Isotretinoin) من أقوى علاجات حب الشباب، وبيتكتب للحالات المتوسطة والشديدة أو الحبوب اللي بترجع رغم العلاجات التانية.\n\n## إمتى الدكتور بيكتبه؟\n- حبوب ملتهبة أو أكياس تحت الجلد بتسيب آثار\n- حبوب مستمرة رغم الكريمات والمضادات الحيوية\n- حبوب بتأثر على نفسيتك وثقتك في نفسك\n\n## إزاي تاخده صح؟\n- الكبسولة بعد أكلة فيها دهون عشان تتمص كويس، وفي نفس الميعاد كل يوم\n- المتابعة كل شهر مهمة: الدكتور بيظبط الجرعة حسب استجابتك\n- التحاليل (دهون ووظائف كبد) قبل البداية وأثناء العلاج\n\n## الحاجات الممنوعة\n- **الحمل ممنوع تماماً** أثناء العلاج ولمدة شهر بعده، وبيتعمل اختبار حمل كل شهر للبنات\n- التبرع بالدم أثناء العلاج ولمدة شهر بعده\n- الشمع والليزر والتقشير أثناء العلاج ولحد 6 شهور بعده\n- مكملات فيتامين A وبعض المضادات الحيوية (التتراسيكلين) مع الروأكيوتان\n\n## الجفاف طبيعي\nمرطب شفايف كذا مرة في اليوم، ومرطب للوش والجسم، وقطرة مرطبة للعين لو محتاج. والصن بلوك كل يوم.\n\n## إمتى تكلم الدكتور فوراً؟\nلو حصل صداع شديد مع زغللة، أو ألم شديد في البطن، أو أي تغيّر في المزاج أو حزن أو أفكار مزعجة."
+   "body": "الروأكيوتان (Isotretinoin) من أقوى علاجات حب الشباب، وبيتكتب للحالات المتوسطة والشديدة أو الحبوب اللي بترجع رغم العلاجات التانية.\n\n## إمتى الدكتور بيكتبه؟\n- حبوب ملتهبة أو أكياس تحت الجلد بتسيب آثار\n- حبوب مستمرة رغم الكريمات والمضادات الحيوية\n- حبوب بتأثر على نفسيتك وثقتك في نفسك\n\n## إزاي تاخده صح؟\n- الكبسولة بعد أكلة فيها دهون عشان تتمص كويس، وفي نفس الميعاد كل يوم\n- المتابعة كل شهر مهمة: الدكتور بيظبط الجرعة حسب استجابتك\n- التحاليل (دهون ووظائف كبد) قبل البداية وأثناء العلاج\n\n## الحاجات الممنوعة\n- **الحمل ممنوع تماماً** أثناء العلاج ولمدة شهر بعده، وبيتعمل اختبار حمل كل شهر للبنات\n- التبرع بالدم أثناء العلاج ولمدة شهر بعده\n- الشمع والليزر والتقشير أثناء العلاج ولحد 6 شهور بعده\n- مكملات فيتامين A وبعض المضادات الحيوية (التتراسيكلين) مع الروأكيوتان\n\n## الجفاف طبيعي\nمرطب شفايف كذا مرة في اليوم، ومرطب للوش والجسم، وقطرة مرطبة للعين لو محتاج. والصن بلوك كل يوم.\n\n## إمتى تكلم الدكتور فوراً؟\nلو حصل صداع شديد مع زغللة، أو ألم شديد في البطن، أو أي تغيّر في المزاج أو حزن أو أفكار مزعجة.",
+   "title_en": "Isotretinoin (Roaccutane): Key Questions Before You Start",
+   "sum_en": "When isotretinoin is used, how to take it correctly, and what you need to know about blood tests, pregnancy and dryness.",
+   "body_en": "Isotretinoin (Roaccutane) is one of the most effective treatments for acne. It is prescribed for moderate to severe acne, or for acne that keeps coming back despite other treatments.\n\n## When does the doctor prescribe it?\n- Inflamed spots or cysts under the skin that leave marks or scars\n- Persistent acne despite creams and antibiotics\n- Acne that is affecting your mood and self-confidence\n\n## How to take it correctly\n- Take the capsule after a meal containing some fat so it is absorbed well, at the same time every day\n- Monthly follow-up is important: the doctor adjusts the dose according to your response\n- Blood tests (lipids and liver function) before starting and during treatment\n\n## What to avoid\n- **Pregnancy is strictly prohibited** during treatment and for one month after it, and women have a pregnancy test every month\n- Donating blood during treatment and for one month after it\n- Waxing, laser and peeling during treatment and for up to 6 months after it\n- Vitamin A supplements and certain antibiotics (tetracyclines) together with isotretinoin\n\n## Dryness is normal\nUse a lip balm several times a day, a moisturizer for your face and body, and lubricating eye drops if needed. And sunscreen every day.\n\n## When to contact the doctor immediately\nIf you develop a severe headache with blurred vision, severe abdominal pain, or any change in mood, low mood, or disturbing thoughts."
   },
   {
    "slug": "laser-hair-removal-guide",
@@ -693,7 +1089,10 @@
    "svc": "laser",
    "svcFile": "laser-hair-removal",
    "sum": "التحضير، عدد الجلسات، الألم، والحاجات اللي بتبوّظ النتيجة — كل اللي محتاج تعرفه قبل الليزر.",
-   "body": "الليزر بيستهدف صبغة الشعرة، فبيضعّف البصيلة جلسة بعد جلسة. عشان تاخد أحسن نتيجة، خلي بالك من الحاجات دي:\n\n## 1) الحلاقة بس بين الجلسات\nالشمع والنتف والخيط بيشيلوا الشعرة من جذرها، فالليزر مش بيلاقي هدف. احلق قبل الجلسة بيوم.\n\n## 2) بلاش شمس وتان\nأسبوعين قبل وبعد الجلسة — البشرة المسمرّة بتزوّد احتمالية التهيج والتصبغ.\n\n## 3) عدد الجلسات\nغالباً من 6 لـ 8 جلسات: الوش كل 4–6 أسابيع، والجسم كل 6–8 أسابيع.\n\n## 4) الشعر بيقع بعد أسبوع\nمن أسبوع لـ 3 أسابيع بعد الجلسة الشعر بيقع لوحده — ده طبيعي.\n\n## 5) الألم\nإحساس زي شد الأستك مع سخونية، والتبريد بيخففه.\n\n## 6) الشعر الفاتح\nالشعر الأبيض والأشقر جداً استجابته ضعيفة لأن الليزر محتاج صبغة.\n\n## 7) الهرمونات\nمع تكيس المبايض أو اضطراب الهرمونات ممكن تحتاجي جلسات أكتر وعلاج السبب مع الليزر."
+   "body": "الليزر بيستهدف صبغة الشعرة، فبيضعّف البصيلة جلسة بعد جلسة. عشان تاخد أحسن نتيجة، خلي بالك من الحاجات دي:\n\n## 1) الحلاقة بس بين الجلسات\nالشمع والنتف والخيط بيشيلوا الشعرة من جذرها، فالليزر مش بيلاقي هدف. احلق قبل الجلسة بيوم.\n\n## 2) بلاش شمس وتان\nأسبوعين قبل وبعد الجلسة — البشرة المسمرّة بتزوّد احتمالية التهيج والتصبغ.\n\n## 3) عدد الجلسات\nغالباً من 6 لـ 8 جلسات: الوش كل 4–6 أسابيع، والجسم كل 6–8 أسابيع.\n\n## 4) الشعر بيقع بعد أسبوع\nمن أسبوع لـ 3 أسابيع بعد الجلسة الشعر بيقع لوحده — ده طبيعي.\n\n## 5) الألم\nإحساس زي شد الأستك مع سخونية، والتبريد بيخففه.\n\n## 6) الشعر الفاتح\nالشعر الأبيض والأشقر جداً استجابته ضعيفة لأن الليزر محتاج صبغة.\n\n## 7) الهرمونات\nمع تكيس المبايض أو اضطراب الهرمونات ممكن تحتاجي جلسات أكتر وعلاج السبب مع الليزر.",
+   "title_en": "Laser Hair Removal: 7 Things to Know Before Your First Session",
+   "sum_en": "Preparation, number of sessions, pain, and the things that spoil results — everything you need to know before laser.",
+   "body_en": "Laser targets the pigment in the hair, weakening the follicle session after session. To get the best result, keep these points in mind:\n\n## 1) Only shave between sessions\nWaxing, plucking and threading remove the hair from the root, so the laser has nothing to target. Shave the day before your session.\n\n## 2) Avoid sun and tanning\nFor two weeks before and after each session — tanned skin increases the risk of irritation and pigmentation.\n\n## 3) Number of sessions\nUsually 6 to 8 sessions: the face every 4–6 weeks, and the body every 6–8 weeks.\n\n## 4) Hair falls out after a week\nBetween one and 3 weeks after the session, the hair sheds on its own — this is normal.\n\n## 5) Pain\nIt feels like a rubber band snapping with some warmth, and cooling makes it more comfortable.\n\n## 6) Light-coloured hair\nWhite and very blonde hair responds poorly because the laser needs pigment to work.\n\n## 7) Hormones\nWith polycystic ovaries or hormonal imbalance, you may need more sessions, along with treating the underlying cause alongside the laser."
   },
   {
    "slug": "hair-loss-when-to-worry",
@@ -702,14 +1101,19 @@
    "svc": "hair",
    "svcFile": "hair-loss",
    "sum": "إزاي تفرّق بين التساقط الطبيعي والمرضي، وأشهر الأسباب، وإمتى الكشف بيفرق.",
-   "body": "طبيعي إن الإنسان يفقد شعر كل يوم، والشعر بيتجدد باستمرار. القلق بيبدأ لما التساقط يزيد بشكل واضح أو يستمر.\n\n## علامات محتاجة كشف\n- تساقط زيادة لأكتر من شهرين\n- خفة واضحة في مقدمة الراس أو الفروة\n- دواير أو فراغات من غير شعر\n- تساقط مع حكة أو قشر أو احمرار في الفروة\n\n## أشهر الأسباب\n- الوراثة (الصلع الوراثي عند الرجالة والستات)\n- التساقط بعد مرض أو ولادة أو رجيم قاسي أو ضغط نفسي — وده غالباً بيتحسن\n- نقص الحديد أو فيتامين د، أو مشاكل الغدة الدرقية\n- الثعلبة\n\n## العلاج بيبدأ من السبب\nفي الكشف بنفحص الفروة كويس وبنطلب تحاليل لو محتاج، وبعدين الخطة: علاج موضعي أو بالفم، وجلسات بلازما أو ميزو لو مناسبة.\n\n## خلي توقعاتك واقعية\nالتساقط بيقل خلال شهر لشهرين، والكثافة بتبان بعد 3–6 شهور من الانتظام."
+   "body": "طبيعي إن الإنسان يفقد شعر كل يوم، والشعر بيتجدد باستمرار. القلق بيبدأ لما التساقط يزيد بشكل واضح أو يستمر.\n\n## علامات محتاجة كشف\n- تساقط زيادة لأكتر من شهرين\n- خفة واضحة في مقدمة الراس أو الفروة\n- دواير أو فراغات من غير شعر\n- تساقط مع حكة أو قشر أو احمرار في الفروة\n\n## أشهر الأسباب\n- الوراثة (الصلع الوراثي عند الرجالة والستات)\n- التساقط بعد مرض أو ولادة أو رجيم قاسي أو ضغط نفسي — وده غالباً بيتحسن\n- نقص الحديد أو فيتامين د، أو مشاكل الغدة الدرقية\n- الثعلبة\n\n## العلاج بيبدأ من السبب\nفي الكشف بنفحص الفروة كويس وبنطلب تحاليل لو محتاج، وبعدين الخطة: علاج موضعي أو بالفم، وجلسات بلازما أو ميزو لو مناسبة.\n\n## خلي توقعاتك واقعية\nالتساقط بيقل خلال شهر لشهرين، والكثافة بتبان بعد 3–6 شهور من الانتظام.",
+   "title_en": "Hair Loss: When Is It Normal and When Should You See a Doctor?",
+   "sum_en": "How to tell normal shedding from abnormal hair loss, the most common causes, and when a consultation makes a difference.",
+   "body_en": "It is normal to lose some hair every day, as hair is constantly renewing itself. Concern begins when shedding clearly increases or persists.\n\n## Signs that need a consultation\n- Increased shedding for more than two months\n- Noticeable thinning at the front of the head or on the scalp\n- Round patches or bald spots\n- Shedding with itching, flaking or redness of the scalp\n\n## The most common causes\n- Genetics (hereditary pattern hair loss in men and women)\n- Shedding after an illness, childbirth, a strict diet or psychological stress — this usually improves\n- Iron or vitamin D deficiency, or thyroid problems\n- Alopecia areata\n\n## Treatment starts with the cause\nDuring the consultation we examine the scalp carefully and request tests if needed, then set the plan: topical or oral treatment, and PRP or mesotherapy sessions if suitable.\n\n## Keep your expectations realistic\nShedding decreases within one to two months, and improvement in density shows after 3–6 months of consistent treatment."
   }
  ],
  "gallery": [],
  "reviews": [],
  "legal": {
   "privacy": "آخر تحديث: أكتوبر 2026\n\nبنحترم خصوصيتك، والصفحة دي بتشرح إزاي بنتعامل مع بياناتك، التزاماً بقانون حماية البيانات الشخصية المصري رقم 151 لسنة 2020.\n\n## البيانات اللي بنجمعها\n- البيانات اللي بتكتبها في نموذج الحجز: الاسم، رقم الموبايل، السن، النوع، الخدمة، الشكوى، والفرع والميعاد المناسب\n- البيانات دي **مش بتتحفظ على الموقع**؛ بتتجمع في رسالة على جهازك وإنت اللي بتبعتها لنا على الواتساب\n- المتصفح بتاعك بيفتكر اسمك ورقمك على جهازك بس عشان ماتكتبهمش تاني\n\n## بنستخدمها في إيه\n- تأكيد الحجز والتواصل معاك بخصوصه\n- المتابعة الطبية والتذكير بالمواعيد\n- مش بنبيع أو نشارك بياناتك مع أي طرف تالت، غير المركز اللي هتكشف فيه عشان يجهز ميعادك\n\n## الصور الطبية\nصور قبل وبعد بتتصور لمتابعة حالتك بس، ومش بتتنشر إلا بموافقتك المكتوبة، ومن غير ما تظهر هويتك. صور حالات صحة الرجل مش بتتنشر نهائياً.\n\n## الكوكيز والتحليلات\nلو فعّلنا أدوات تحليل الزيارات، مش هتشتغل إلا بعد موافقتك، ومش بتجمع بيانات طبية.\n\n## حقوقك\nمن حقك تطلب تعرف بياناتك أو تصححها أو تمسحها في أي وقت — ابعتلنا على الواتساب. السجلات الطبية بتتحفظ المدة اللي يحددها القانون.\n\n## التواصل\nلأي سؤال عن الخصوصية كلمنا على الواتساب.",
-  "terms": "آخر تحديث: أكتوبر 2026\n\n## المعلومات الطبية\nكل المعلومات في الموقع للتوعية بس، ومش بديل عن الكشف. التشخيص والخطة وعدد الجلسات بيتحددوا بعد الكشف، والنتائج بتختلف من شخص لشخص.\n\n## الحجز\n- طلب الحجز مش بيبقى مؤكد غير لما نرد عليك بالتأكيد\n- لو هتلغي أو تأجل، ياريت تبلغنا قبلها بـ 24 ساعة على الأقل\n- بعض الإجراءات التجميلية ممكن تحتاج عربون لتأكيد الحجز\n\n## الأسعار\nالأسعار المعروضة تقريبية ومبدئية، وممكن تتغير، والسعر النهائي بيتحدد بعد الكشف.\n\n## الطوارئ\nالموقع والواتساب مش للحالات الطارئة. في أي حالة طارئة روح أقرب طوارئ فوراً.\n\n## الصور والمحتوى\nمحتوى الموقع وصوره ملك د. كريم الشوربجي، وممنوع نسخه أو استخدامه من غير إذن."
+  "terms": "آخر تحديث: أكتوبر 2026\n\n## المعلومات الطبية\nكل المعلومات في الموقع للتوعية بس، ومش بديل عن الكشف. التشخيص والخطة وعدد الجلسات بيتحددوا بعد الكشف، والنتائج بتختلف من شخص لشخص.\n\n## الحجز\n- طلب الحجز مش بيبقى مؤكد غير لما نرد عليك بالتأكيد\n- لو هتلغي أو تأجل، ياريت تبلغنا قبلها بـ 24 ساعة على الأقل\n- بعض الإجراءات التجميلية ممكن تحتاج عربون لتأكيد الحجز\n\n## الأسعار\nالأسعار المعروضة تقريبية ومبدئية، وممكن تتغير، والسعر النهائي بيتحدد بعد الكشف.\n\n## الطوارئ\nالموقع والواتساب مش للحالات الطارئة. في أي حالة طارئة روح أقرب طوارئ فوراً.\n\n## الصور والمحتوى\nمحتوى الموقع وصوره ملك د. كريم الشوربجي، وممنوع نسخه أو استخدامه من غير إذن.",
+  "privacy_en": "Last updated: October 2026\n\nWe respect your privacy. This page explains how we handle your data, in compliance with the Egyptian Personal Data Protection Law No. 151 of 2020.\n\n## Data we collect\n- The information you enter in the booking form: name, mobile number, age, gender, service, complaint, and preferred branch and time\n- This data is **not stored on the website**; it is compiled into a message on your device, and you are the one who sends it to us on WhatsApp\n- Your browser remembers your name and number on your device only, so you don't have to type them again\n\n## How we use it\n- To confirm your booking and contact you about it\n- For medical follow-up and appointment reminders\n- We do not sell or share your data with any third party, except the center where you will be seen, so it can prepare your appointment\n\n## Medical photos\nBefore-and-after photos are taken solely to monitor your condition, and are never published without your written consent, and without revealing your identity. Photos of men's health cases are never published under any circumstances.\n\n## Cookies and analytics\nIf we enable website analytics tools, they will only run after you give your consent, and they do not collect medical data.\n\n## Your rights\nYou have the right to request access to, correction of, or deletion of your data at any time — message us on WhatsApp. Medical records are retained for the period required by law.\n\n## Contact\nFor any questions about privacy, contact us on WhatsApp.",
+  "terms_en": "Last updated: October 2026\n\n## Medical information\nAll information on this website is for general awareness only and is not a substitute for a medical consultation. The diagnosis, treatment plan and number of sessions are determined after the consultation, and results vary from person to person.\n\n## Bookings\n- A booking request is not confirmed until we reply to you with a confirmation\n- If you need to cancel or reschedule, please let us know at least 24 hours in advance\n- Some aesthetic procedures may require a deposit to confirm the booking\n\n## Prices\nDisplayed prices are approximate and indicative, may change, and the final price is determined after the consultation.\n\n## Emergencies\nThis website and WhatsApp are not intended for emergencies. In any emergency, go to the nearest emergency department immediately.\n\n## Photos and content\nThe content and images on this website are the property of Dr. Karim Elshourbagy and may not be copied or used without permission."
  },
  "bookSvc": [
   [
@@ -796,5 +1200,130 @@
   "الضهر",
   "الصدر / البطن",
   "الجسم كامل"
+ ],
+ "general_en": [
+  "Eczema & allergies",
+  "Psoriasis",
+  "Vitiligo",
+  "Fungal infections & tinea",
+  "Urticaria (hives)",
+  "Alopecia areata",
+  "Skin infections & impetigo",
+  "Scabies",
+  "Herpes",
+  "Nail problems",
+  "Sexually transmitted infections"
+ ],
+ "faq_en": [
+  [
+   "How do I book?",
+   "Fill in your details below, choose the branch and time that suit you, and send the request on WhatsApp. We'll reply to confirm your appointment and the address."
+  ],
+  [
+   "How much is a consultation?",
+   "The consultation fee varies by branch — we'll let you know in the confirmation message."
+  ],
+  [
+   "Can I send a photo of the problem?",
+   "Yes — after you send your booking request, send the photo in the same WhatsApp chat."
+  ],
+  [
+   "Does the consultation include follow-up?",
+   "Follow-up appointments are set by the doctor depending on your case, and you'll receive a reminder message beforehand."
+  ],
+  [
+   "Is my data safe?",
+   "Your details reach the clinic only via WhatsApp, and your consultation and its details are kept confidential."
+  ],
+  [
+   "Do you treat emergencies?",
+   "No — in any emergency, go to the nearest emergency department immediately."
+  ]
+ ],
+ "bookSvc_en": [
+  [
+   "k_derm",
+   "Dermatology consultation"
+  ],
+  [
+   "k_andro",
+   "Men's health consultation"
+  ],
+  [
+   "acne",
+   "Acne & acne scars"
+  ],
+  [
+   "hair",
+   "Hair loss"
+  ],
+  [
+   "laser",
+   "Laser hair removal"
+  ],
+  [
+   "inj",
+   "Botox / Fillers"
+  ],
+  [
+   "glow",
+   "Skin glow, peels & mesotherapy"
+  ],
+  [
+   "prp",
+   "Plasma (PRP)"
+  ],
+  [
+   "pig",
+   "Pigmentation, melasma & brightening"
+  ],
+  [
+   "minor",
+   "Removal of skin tags / moles / warts"
+  ],
+  [
+   "other",
+   "Something else"
+  ]
+ ],
+ "sources_en": [
+  [
+   "fb",
+   "Facebook"
+  ],
+  [
+   "ig",
+   "Instagram"
+  ],
+  [
+   "tt",
+   "TikTok"
+  ],
+  [
+   "ref",
+   "Recommended by someone"
+  ],
+  [
+   "web",
+   "Google"
+  ],
+  [
+   "wa",
+   "WhatsApp"
+  ],
+  [
+   "cl",
+   "From the center itself"
+  ]
+ ],
+ "laserAreas_en": [
+  "Face",
+  "Underarms",
+  "Bikini",
+  "Legs",
+  "Arms",
+  "Back",
+  "Chest / Abdomen",
+  "Full body"
  ]
 }

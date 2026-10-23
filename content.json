@@ -28,7 +28,7 @@
   "ga": "",
   "clarity": "",
   "gsc": "",
-  "showPrices": true,
+  "showPrices": false,
   "name_en": "Dr. Karim Elshourbagy",
   "tagline_en": "Dermatology, Aesthetics & Laser · Men's Health & Andrology",
   "title_en": "Dr. Karim Elshourbagy — Dermatology, Aesthetics, Laser & Men's Health | Book Online",
@@ -46,7 +46,7 @@
   "title": "عن د. كريم الشوربجي",
   "paras": [
    "د. كريم الشوربجي، طبيب الأمراض الجلدية والتجميل والليزر وصحة الرجل. بيكشف وبيعمل الإجراءات في أكتر من مركز في القاهرة، وبيشتغل طبيب ليزر أول (Senior Laser Doctor) في DAO Derma.",
-   "هدفنا إنك تفهم حالتك كويس، وتمشي على خطة واضحة بأسعار معلنة، ونفضل متابعين معاك بعد كل جلسة لحد ما توصل للنتيجة."
+   "هدفنا إنك تفهم حالتك كويس، وتمشي على خطة واضحة، ونفضل متابعين معاك بعد كل جلسة لحد ما توصل للنتيجة."
   ],
   "quals": [],
   "exp": [
@@ -62,7 +62,7 @@
   "title_en": "About Dr. Karim Elshourbagy",
   "paras_en": [
    "Dr. Karim Elshourbagy is a physician specializing in dermatology, aesthetics, laser and men's health. He sees patients and performs procedures at several centers across Cairo, and works as Senior Laser Doctor at DAO Derma.",
-   "Our goal is for you to understand your condition well and follow a clear plan with transparent pricing — and we stay with you after every session until you reach your result."
+   "Our goal is for you to understand your condition well and follow a clear plan — and we stay with you after every session until you reach your result."
   ],
   "exp_en": [
    "Senior Laser Doctor — DAO Derma"

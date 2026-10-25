@@ -6,11 +6,11 @@
   "tagline": "الجلدية والتجميل والليزر · صحة الرجل والذكورة",
   "spec": "DERMATOLOGY · AESTHETICS · ANDROLOGY",
   "title": "د. كريم الشوربجي — جلدية وتجميل وليزر وصحة الرجل | احجز أونلاين",
-  "desc": "د. كريم الشوربجي — جلدية وتجميل وليزر وصحة الرجل في القاهرة: السلام، جسر السويس، مدينة نصر، التجمع الخامس، والشيراتون. حب الشباب، ليزر إزالة الشعر، البوتوكس والفيلر، تساقط الشعر، الكلف. احجز على الواتساب.",
+  "desc": "د. كريم الشوربجي — جلدية وتجميل وليزر وصحة الرجل في القاهرة: السلام، جسر السويس، التجمع الخامس، والشيراتون. حب الشباب، ليزر إزالة الشعر، البوتوكس والفيلر، تساقط الشعر، الكلف. احجز على الواتساب.",
   "heroTitle": "د. كريم الشوربجي",
   "heroText": "تشخيص دقيق، خطة علاج واضحة، ومتابعة لحد النتيجة — في أكتر من فرع قريب منك في القاهرة.",
   "trust": [
-   "فروع في 5 مناطق في القاهرة",
+   "فروع في 4 مناطق في القاهرة",
    "حجز أونلاين في دقيقة",
    "متابعة بعد كل جلسة",
    "خصوصية تامة لكشف صحة الرجل"
@@ -36,11 +36,12 @@
   "heroTitle_en": "Dr. Karim Elshourbagy",
   "heroText_en": "An accurate diagnosis, a clear treatment plan, and follow-up until you see results — at several branches near you in Cairo.",
   "trust_en": [
-   "Branches in 5 areas of Cairo",
+   "Branches in 4 areas of Cairo",
    "Book online in a minute",
    "Follow-up after every session",
    "Complete privacy for men's health consultations"
-  ]
+  ],
+  "sheetUrl": ""
  },
  "about": {
   "title": "عن د. كريم الشوربجي",
@@ -917,7 +918,7 @@
     }
    ],
    "slot": 20,
-   "on": true,
+   "on": false,
    "name_en": "El Shams Labs Clinics — Nasr City (El Tabba)",
    "area_en": "Nasr City",
    "addr_en": "El Tabba"
@@ -1006,18 +1007,6 @@
    "intro_en": "Dr. Karim Elshourbagy's clinic at Al Helal — El Salam (Esbeco), every Tuesday evening: acne, hair loss, melasma, Botox and fillers, skin tag removal, and men's health consultations."
   },
   {
-   "file": "derma-nasr-city",
-   "area": "مدينة نصر",
-   "title": "دكتور جلدية وليزر في مدينة نصر",
-   "branches": [
-    "shams-tabba"
-   ],
-   "intro": "في مدينة نصر (التبة) تقدر تحجز مع د. كريم الشوربجي في عيادات معامل الشمس — الكشف بالحجز المسبق، وبنحدد الساعة المناسبة معاك على الواتساب.",
-   "area_en": "Nasr City",
-   "title_en": "Dermatologist & Laser Doctor in Nasr City",
-   "intro_en": "In Nasr City (El Tabba), you can book with Dr. Karim Elshourbagy at El Shams Labs Clinics — consultations are by prior appointment, and we'll agree on a convenient time with you on WhatsApp."
-  },
-  {
    "file": "laser-new-cairo",
    "area": "التجمع الخامس",
    "title": "دكتور جلدية وليزر في التجمع الخامس",
@@ -1062,7 +1051,7 @@
   ],
   [
    "بياناتي في أمان؟",
-   "بياناتك بتوصل للعيادة بس على الواتساب، والكشف وتفاصيله سرية."
+   "بياناتك بتوصل للعيادة بس، ومحدش غير العيادة بيشوفها، والكشف وتفاصيله سرية."
   ],
   [
    "بتعالجوا الحالات الطارئة؟",
@@ -1110,9 +1099,9 @@
  "gallery": [],
  "reviews": [],
  "legal": {
-  "privacy": "آخر تحديث: أكتوبر 2026\n\nبنحترم خصوصيتك، والصفحة دي بتشرح إزاي بنتعامل مع بياناتك، التزاماً بقانون حماية البيانات الشخصية المصري رقم 151 لسنة 2020.\n\n## البيانات اللي بنجمعها\n- البيانات اللي بتكتبها في نموذج الحجز: الاسم، رقم الموبايل، السن، النوع، الخدمة، الشكوى، والفرع والميعاد المناسب\n- البيانات دي **مش بتتحفظ على الموقع**؛ بتتجمع في رسالة على جهازك وإنت اللي بتبعتها لنا على الواتساب\n- المتصفح بتاعك بيفتكر اسمك ورقمك على جهازك بس عشان ماتكتبهمش تاني\n\n## بنستخدمها في إيه\n- تأكيد الحجز والتواصل معاك بخصوصه\n- المتابعة الطبية والتذكير بالمواعيد\n- مش بنبيع أو نشارك بياناتك مع أي طرف تالت، غير المركز اللي هتكشف فيه عشان يجهز ميعادك\n\n## الصور الطبية\nصور قبل وبعد بتتصور لمتابعة حالتك بس، ومش بتتنشر إلا بموافقتك المكتوبة، ومن غير ما تظهر هويتك. صور حالات صحة الرجل مش بتتنشر نهائياً.\n\n## الكوكيز والتحليلات\nلو فعّلنا أدوات تحليل الزيارات، مش هتشتغل إلا بعد موافقتك، ومش بتجمع بيانات طبية.\n\n## حقوقك\nمن حقك تطلب تعرف بياناتك أو تصححها أو تمسحها في أي وقت — ابعتلنا على الواتساب. السجلات الطبية بتتحفظ المدة اللي يحددها القانون.\n\n## التواصل\nلأي سؤال عن الخصوصية كلمنا على الواتساب.",
+  "privacy": "آخر تحديث: أكتوبر 2026\n\nبنحترم خصوصيتك، والصفحة دي بتشرح إزاي بنتعامل مع بياناتك، التزاماً بقانون حماية البيانات الشخصية المصري رقم 151 لسنة 2020.\n\n## البيانات اللي بنجمعها\n- البيانات اللي بتكتبها في نموذج الحجز: الاسم، رقم الموبايل، السن، النوع، الخدمة، الشكوى، والفرع والميعاد المناسب\n- لما تبعت طلب الحجز، البيانات دي بتتبعت للعيادة على الواتساب، وبتتسجل كمان في سجل حجوزات خاص بالعيادة (Google Sheets) عشان نأكد ميعادك. السجل ده محدش بيشوفه غير العيادة\n- المتصفح بتاعك بيفتكر اسمك ورقمك على جهازك بس عشان ماتكتبهمش تاني\n\n## بنستخدمها في إيه\n- تأكيد الحجز والتواصل معاك بخصوصه\n- المتابعة الطبية والتذكير بالمواعيد\n- مش بنبيع أو نشارك بياناتك مع أي طرف تالت، غير المركز اللي هتكشف فيه عشان يجهز ميعادك\n\n## الصور الطبية\nصور قبل وبعد بتتصور لمتابعة حالتك بس، ومش بتتنشر إلا بموافقتك المكتوبة، ومن غير ما تظهر هويتك. صور حالات صحة الرجل مش بتتنشر نهائياً.\n\n## الكوكيز والتحليلات\nلو فعّلنا أدوات تحليل الزيارات، مش هتشتغل إلا بعد موافقتك، ومش بتجمع بيانات طبية.\n\n## حقوقك\nمن حقك تطلب تعرف بياناتك أو تصححها أو تمسحها في أي وقت — ابعتلنا على الواتساب. السجلات الطبية بتتحفظ المدة اللي يحددها القانون.\n\n## التواصل\nلأي سؤال عن الخصوصية كلمنا على الواتساب.",
   "terms": "آخر تحديث: أكتوبر 2026\n\n## المعلومات الطبية\nكل المعلومات في الموقع للتوعية بس، ومش بديل عن الكشف. التشخيص والخطة وعدد الجلسات بيتحددوا بعد الكشف، والنتائج بتختلف من شخص لشخص.\n\n## الحجز\n- طلب الحجز مش بيبقى مؤكد غير لما نرد عليك بالتأكيد\n- لو هتلغي أو تأجل، ياريت تبلغنا قبلها بـ 24 ساعة على الأقل\n- بعض الإجراءات التجميلية ممكن تحتاج عربون لتأكيد الحجز\n\n## الأسعار\nالأسعار المعروضة تقريبية ومبدئية، وممكن تتغير، والسعر النهائي بيتحدد بعد الكشف.\n\n## الطوارئ\nالموقع والواتساب مش للحالات الطارئة. في أي حالة طارئة روح أقرب طوارئ فوراً.\n\n## الصور والمحتوى\nمحتوى الموقع وصوره ملك د. كريم الشوربجي، وممنوع نسخه أو استخدامه من غير إذن.",
-  "privacy_en": "Last updated: October 2026\n\nWe respect your privacy. This page explains how we handle your data, in compliance with the Egyptian Personal Data Protection Law No. 151 of 2020.\n\n## Data we collect\n- The information you enter in the booking form: name, mobile number, age, gender, service, complaint, and preferred branch and time\n- This data is **not stored on the website**; it is compiled into a message on your device, and you are the one who sends it to us on WhatsApp\n- Your browser remembers your name and number on your device only, so you don't have to type them again\n\n## How we use it\n- To confirm your booking and contact you about it\n- For medical follow-up and appointment reminders\n- We do not sell or share your data with any third party, except the center where you will be seen, so it can prepare your appointment\n\n## Medical photos\nBefore-and-after photos are taken solely to monitor your condition, and are never published without your written consent, and without revealing your identity. Photos of men's health cases are never published under any circumstances.\n\n## Cookies and analytics\nIf we enable website analytics tools, they will only run after you give your consent, and they do not collect medical data.\n\n## Your rights\nYou have the right to request access to, correction of, or deletion of your data at any time — message us on WhatsApp. Medical records are retained for the period required by law.\n\n## Contact\nFor any questions about privacy, contact us on WhatsApp.",
+  "privacy_en": "Last updated: October 2026\n\nWe respect your privacy. This page explains how we handle your data, in compliance with the Egyptian Personal Data Protection Law No. 151 of 2020.\n\n## Data we collect\n- The information you enter in the booking form: name, mobile number, age, gender, service, complaint, and preferred branch and time\n- When you send a booking request, this data is sent to the clinic on WhatsApp and is also recorded in the clinic's private booking log (Google Sheets) so we can confirm your appointment. Only the clinic can see this log\n- Your browser remembers your name and number on your device only, so you don't have to type them again\n\n## How we use it\n- To confirm your booking and contact you about it\n- For medical follow-up and appointment reminders\n- We do not sell or share your data with any third party, except the center where you will be seen, so it can prepare your appointment\n\n## Medical photos\nBefore-and-after photos are taken solely to monitor your condition, and are never published without your written consent, and without revealing your identity. Photos of men's health cases are never published under any circumstances.\n\n## Cookies and analytics\nIf we enable website analytics tools, they will only run after you give your consent, and they do not collect medical data.\n\n## Your rights\nYou have the right to request access to, correction of, or deletion of your data at any time — message us on WhatsApp. Medical records are retained for the period required by law.\n\n## Contact\nFor any questions about privacy, contact us on WhatsApp.",
   "terms_en": "Last updated: October 2026\n\n## Medical information\nAll information on this website is for general awareness only and is not a substitute for a medical consultation. The diagnosis, treatment plan and number of sessions are determined after the consultation, and results vary from person to person.\n\n## Bookings\n- A booking request is not confirmed until we reply to you with a confirmation\n- If you need to cancel or reschedule, please let us know at least 24 hours in advance\n- Some aesthetic procedures may require a deposit to confirm the booking\n\n## Prices\nDisplayed prices are approximate and indicative, may change, and the final price is determined after the consultation.\n\n## Emergencies\nThis website and WhatsApp are not intended for emergencies. In any emergency, go to the nearest emergency department immediately.\n\n## Photos and content\nThe content and images on this website are the property of Dr. Karim Elshourbagy and may not be copied or used without permission."
  },
  "bookSvc": [
@@ -1233,7 +1222,7 @@
   ],
   [
    "Is my data safe?",
-   "Your details reach the clinic only via WhatsApp, and your consultation and its details are kept confidential."
+   "Your details reach the clinic only, no one else sees them, and your consultation and its details are kept confidential."
   ],
   [
    "Do you treat emergencies?",

@@ -474,9 +474,21 @@ function langLinks(h,path,c,lang){var base=c.site.url.replace(/\/$/,""),p=path==
   var alt='<link rel="alternate" hreflang="ar" href="'+e(base+"/"+p)+'"><link rel="alternate" hreflang="en" href="'+e(base+"/en/"+p)+'"><link rel="alternate" hreflang="x-default" href="'+e(base+"/"+p)+'">\n';
   var sw=lang==="en"?'<a class="lng" href="../'+p+'" hreflang="ar" lang="ar" dir="rtl" aria-label="العربية"><span class="lf">العربية</span><span class="ls">ع</span></a>':'<a class="lng" href="en/'+p+'" hreflang="en" lang="en" dir="ltr" aria-label="English"><span class="lf">English</span><span class="ls">EN</span></a>';
   return h.replace("</head>",alt+"</head>").replace('<button class="thm"',sw+'<button class="thm"');}
+/* ---------- no closing periods on Arabic sentences ---------- */
+var ND_AR=/[؀-ۿ]/,ND_ABBR={"د":1,"أ":1,"Dr":1,"Mr":1,"Mrs":1,"Ms":1,"Prof":1};
+function noDot(s){if(!ND_AR.test(s))return s;var out="",n=s.length;for(var i=0;i<n;i++){var ch=s[i];if(ch!==".")
+{out+=ch;continue;}var p=s[i-1]||"",x=s[i+1]||"",tok=(s.slice(0,i).match(/([^\s(«"]+)$/)||[])[1]||"";
+if(p==="."||x==="."||(/\d/.test(p)&&/\d/.test(x))||(x&&!/\s/.test(x)&&x!=="<")||ND_ABBR[tok]){out+=ch;continue;}
+if(!s.slice(i+1).replace(/<[^>]*>/g,"").trim())continue;if(/^[ \t]*\n/.test(s.slice(i+1)))continue;out+="،";}return out;}
+function noDotsJs(code){return code.replace(/"((?:[^"\\\n]|\\.)*)"|'((?:[^'\\\n]|\\.)*)'/g,function(m,a,b){var raw=a!=null?a:b,q=a!=null?'"':"'";if(!ND_AR.test(raw))return m;var t=raw.split(/(<[^>]*>)/).map(function(seg,i){return i%2?seg:noDotSeg(seg);}).join("");return q+t+q;});}
+function noDotSeg(t){return t.replace(/\.(?=\s*$)/,function(m,off){return noDot(t.slice(0,off+1))===t.slice(0,off+1)?m:"";}).length?noDot(t):t;}
+function noDots(h){return h.split(/(<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>)/).map(function(part,i){
+  if(i%2){if(/^<style|application\/ld\+json/.test(part))return part;return part.replace(/^(<script[^>]*>)([\s\S]*)(<\/script>)$/,function(m,o,b,cl){return o+noDotsJs(b)+cl;});}
+  return part.replace(/>([^<]+)</g,function(m,t){return ">"+noDot(t)+"<";}).replace(/\bplaceholder="([^"]*)"/g,function(m,v){return 'placeholder="'+noDot(v)+'"';});}).join("");}
 function build(c){var f=pages(c),C2=loc(c),fe=pages(C2),out={},base=c.site.url.replace(/\/$/,"");
   Object.keys(f).forEach(function(k){out[k]=langLinks(f[k],k,c,"ar");});
   Object.keys(fe).forEach(function(k){out["en/"+k]=langLinks(enPage(fe[k],k,c),k,c,"en");});
+  Object.keys(out).forEach(function(k){if(/\.html$/.test(k))out[k]=noDots(out[k]);});
   var urls=[];Object.keys(f).filter(function(k){return k!=="privacy.html"&&k!=="terms.html";}).forEach(function(k){var p=k==="index.html"?"":k;urls.push(base+"/"+p);urls.push(base+"/en/"+p);});
   out["sitemap.xml"]='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+urls.map(function(u){return '  <url><loc>'+e(u)+'</loc></url>';}).join("\n")+'\n</urlset>\n';
   out["robots.txt"]="User-agent: *\nAllow: /\nDisallow: /admin.html\nSitemap: "+base+"/sitemap.xml\n";
